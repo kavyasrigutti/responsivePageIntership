@@ -23,9 +23,8 @@ Media Queries
 Font Awesome (for icons)
 
 📂 Folder Structure
-pgsql
-Copy
-Edit
+
+
 📁 project-folder/
  ┣ 📄 index.html
  ┣ 📄 style.css
