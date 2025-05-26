@@ -2,6 +2,7 @@ Responsive Landing Page
 This is a simple responsive landing page built using HTML5 and CSS3. It includes a header with navigation, a hero section with text and an image, and a footer with social links. The layout adapts to different screen sizes using Flexbox and media queries.
 
 Features
+
 ✅ Responsive layout for desktop and mobile
 
 ✅ Header with logo and navigation links
